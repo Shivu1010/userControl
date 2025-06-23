@@ -1,0 +1,9 @@
+org\clickcrawl\userpermission\model\User.class
+org\clickcrawl\userpermission\repository\RoleRepository.class
+org\clickcrawl\userpermission\controller\UserController.class
+org\clickcrawl\userpermission\service\RoleService.class
+org\clickcrawl\userpermission\repository\UserRepository.class
+org\clickcrawl\userpermission\service\UserService.class
+org\clickcrawl\userpermission\controller\RoleController.class
+org\clickcrawl\userpermission\model\Role.class
+org\clickcrawl\userpermission\Application.class
