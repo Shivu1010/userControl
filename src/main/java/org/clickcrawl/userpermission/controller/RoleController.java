@@ -1,7 +1,5 @@
 package org.clickcrawl.userpermission.controller;
 
-
-
 import org.clickcrawl.userpermission.model.Role;
 import org.clickcrawl.userpermission.service.RoleService;
 import org.springframework.beans.factory.annotation.Autowired;
